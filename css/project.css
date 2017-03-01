@@ -14,6 +14,10 @@ header{
 header div{
 	margin-top: 30px;
 }
+header div nav{
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
 
 .main{
 	margin-top: 150px;
@@ -26,6 +30,19 @@ header div{
 }
 .main table tr td{
 	width: 50%;
+}
+.info_div{
+	position: relative;
+	width: 500px;
+	margin:0 auto;
+	
+}
+.info_div div{
+	//float: left;
+}
+.info_div img{
+
+	width: 120px;
 }
 
 footer{
